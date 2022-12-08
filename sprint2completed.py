@@ -99,7 +99,7 @@ def main():
                             truth = not comparison_a > comparison_b
                             if not truth:
                                 print("Hope you're having fun!")
-                            elif Truth:
+                            elif truth:
                                 print("Enjoy!")
                             # by changing this value named "times" you change the duration of the timer,
                             # I plan to have it be
